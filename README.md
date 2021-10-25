@@ -1,6 +1,6 @@
  # <img src="https://c.tenor.com/bU4xAB-jVGcAAAAd/reyna.gif" width="35" height="35" /> Wellcome to my Git ! <img src="https://c.tenor.com/bU4xAB-jVGcAAAAd/reyna.gif" width="35" height="35" /> 
 
-➡?
+Estudante de Análise e Desenvolvimento de Sistemas pela FATEC
 
 ## 
 
