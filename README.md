@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela FATEC
 
 ## 
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&layout=compact&show_icons=true&theme=midnight-purple"/>
+<img height="160em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/><img height="160em" width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/><img height="160em" width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=Higor-SM&theme=midnight-purple"/>
 
 ##
 
