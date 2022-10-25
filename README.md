@@ -3,24 +3,25 @@
 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Atualmente focado nas áreas de front-end, e me aventurando em desenvolvimento mobile com react-native. Meus hobbies são escutar músicas, meus estilos variam entre Rock e Indie, e jogar, tanto jogos eletrônicos, Dark Souls, League of Legends, e Valorant, quanto RPG de cartas, como Magic The Gathering
 
 ## 
-<div align=center>
-   <img height="200em" width="390em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
-   <br>
-   <img height="200em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
-   <br>
-   <img height="200em" width="390em" src="https://github-readme-streak-stats.herokuapp.com?user=Higor-SM&theme=midnight-purple"/>
+
+<a href="https://github.com/rafaballeriniHigor-SM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
 </div>
 
 ##
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/higor-mariano-5587b81b8/) 
-[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/gnomo_de_oculos)
+<div>
+<a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/gnomo_de_oculos" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
 
-<div align=center>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<div style="display: inline_block"><br>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
 </div>
 
 ##
