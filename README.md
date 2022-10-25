@@ -3,19 +3,9 @@
 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Atualmente focado nas áreas de front-end, e me aventurando em desenvolvimento mobile com react-native. Meus hobbies são escutar músicas, meus estilos variam entre Rock e Indie, e jogar, tanto jogos eletrônicos, Dark Souls, League of Legends, e Valorant, quanto RPG de cartas, como Magic The Gathering
 
 ## 
-<table>
-  <tr>
-  <td>
    <img height="160em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
-  </td>
-  <td>
    <img height="160em" width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
-  </td>
-  <td>
    <img height="160em" width="350em" src="https://github-readme-streak-stats.herokuapp.com?user=Higor-SM&theme=midnight-purple"/>
-  </td>
- </tr>
-</table>
 
 ##
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/higor-mariano-5587b81b8/) 
