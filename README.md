@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia
 
 ## 
 
-<a href="https://github.com/rafaballeriniHigor-SM">
+<a href="https://github.com/Higor-SM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
 </div>
