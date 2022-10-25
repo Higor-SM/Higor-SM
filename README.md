@@ -5,7 +5,9 @@ Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia
 ## 
 <div align=center>
    <img height="200em" width="390em" src="https://github-readme-stats.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
+   <br>
    <img height="200em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
+   <br>
    <img height="200em" width="390em" src="https://github-readme-streak-stats.herokuapp.com?user=Higor-SM&theme=midnight-purple"/>
 </div>
 
