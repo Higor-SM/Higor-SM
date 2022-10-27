@@ -12,7 +12,7 @@ class AboutMe extends Dev{
 
 class Skills extends Dev{
   programmingLanguages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React Native'];
-  Languages = ['Portuguese', 'English']
+  languages = ['Portuguese', 'English']
 }
 
 class Hobbies extends Dev{
