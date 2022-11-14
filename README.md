@@ -16,8 +16,10 @@ class Skills extends Dev{
 }
 
 class Hobbies extends Dev{
-  games = ['Dark Souls', 'League of Legends', 'Valorant', 'Magic The Gathering'];
+  games = ['Dark Souls', 'League of Legends', 'Valorant', 'Magic The Gathering', 'Chess'];
   music = ['Rock', 'Indie', 'Trap'];
+  sports = ['Swimming', 'Skating', 'Fishing'];
+  miscellaneous = ['Cooking', 'Reading'];
 }
 ```
 
