@@ -27,8 +27,8 @@ class Hobbies extends Dev{
 <a href="https://steamcommunity.com/id/gnomo_de_oculos" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a></h2>
 
 <a href="https://github.com/Higor-SM">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Higor-SM&show_icons=true&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&theme=midnight-purple"/>
   <div align="center" style="display: inline_block"><br>
 <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
