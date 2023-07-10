@@ -6,7 +6,7 @@ import Dev from 'Me';
 class AboutMe extends Dev{
   name = 'Higor';
   lastName = 'Mariano';
-  age= '20';
+  age= '21';
   studying= 'System Analysis and Development at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal';
 }
 
