@@ -43,4 +43,4 @@ class Hobbies extends Dev{
 
 ##
 
-![Snake animation](https://github.com/Higor-SM/Higor-SM/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Higor-SM/Higor-SM/blob/output/github-contribution-grid-snake.svg) -->
