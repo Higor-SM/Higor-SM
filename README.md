@@ -23,7 +23,7 @@ class Hobbies extends Dev{
 }
 ```
 
-<h2>my links:</br><a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h2 align="center">My links</br></br><a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/gnomo_de_oculos" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="mailto:<higormariano10@gmail.com>" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:higormariano10@gmail.com" /></a>
 </h2>
@@ -32,16 +32,14 @@ class Hobbies extends Dev{
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Higor-SM&show_icons=true&count_private=true&hide_border=true&title_color=CE6739FF&icon_color=CE6739FF&text_color=c9d1d9&bg_color=0d1117"/>
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&&hide_border=true&title_color=CE6739FF&text_color=c9d1d9&bg_color=0d1117"/>
   <div align="center" style="display: inline_block"><br>
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 </div>
 
-##
-
-<!-- ![Snake animation](https://github.com/Higor-SM/Higor-SM/blob/output/github-contribution-grid-snake.svg) -->
