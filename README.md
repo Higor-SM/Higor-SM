@@ -7,16 +7,16 @@ class AboutMe extends Dev{
   name = 'Higor';
   lastName = 'Mariano';
   age= '21';
-  studying= 'System Analysis and Development at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal';
+  degree= 'System Analysis and Development at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal';
 }
 
 class Skills extends Dev{
-  programmingLanguages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React Native'];
-  languages = ['Portuguese', 'English']
+  programmingLanguages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'React Native', 'C#'];
+  languages = ['Portuguese', 'English'];
 }
 
 class Hobbies extends Dev{
-  games = ['Dark Souls', 'League of Legends', 'Valorant', 'Magic The Gathering', 'Chess'];
+  games = ['Dark Souls', 'League of Legends', 'Magic The Gathering', 'Chess'];
   music = ['Rock', 'Indie', 'Trap'];
   sports = ['Swimming', 'Skating', 'Fishing'];
   miscellaneous = ['Cooking', 'Reading'];
@@ -34,10 +34,11 @@ class Hobbies extends Dev{
   <div align="center" style="display: inline_block"><br>
 <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
+  <img align="center" alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 </div>
 
