@@ -3,27 +3,27 @@
 ```JavaScript
 import Dev from 'Me';
 
-class AboutMe extends Dev{
-name = 'Higor';
-lastName = 'Mariano';
-age= '22';
-degree= 'System Analysis and Development at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal';
+class AboutMe extends Dev {
+    name = 'Higor';
+    lastName = 'Mariano';
+    age = 23;
+    degree = 'System Analysis and Development at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal';
 }
 
-class Skills extends Dev{
-programmingLanguages = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'React Native', 'C#'];
-languages = ['Portuguese', 'English'];
+class Skills extends Dev {
+    programmingLanguages = ['HTML', 'CSS', 'NodeJS', 'JavaScript', 'TypeScript', 'React', 'React Native', 'C#'];
+    languages = ['Portuguese', 'English'];
 }
 
-class Hobbies extends Dev{
-games = ['Dark Souls', 'League of Legends', 'Magic The Gathering', 'Chess'];
-music = ['Rock', 'Indie', 'Trap'];
-sports = ['Swimming', 'Skating', 'Fishing'];
-miscellaneous = ['Cooking', 'Reading'];
+class Hobbies extends Dev {
+    games = ['Dark Souls', 'League of Legends', 'Magic The Gathering', 'Chess'];
+    music = ['Rock', 'Indie', 'Trap'];
+    sports = ['Swimming', 'Skating', 'Fishing'];
+    miscellaneous = ['Cooking', 'Reading'];
 }
 ```
 
-<h2 align="center">My links
+<h2 align="center">🌐 Connect with me
     </br>
     </br>
     <a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/" target="_blank">
