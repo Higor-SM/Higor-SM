@@ -31,17 +31,13 @@ class Hobbies extends Dev {
             target="_blank"></a>
     <a href="https://steamcommunity.com/id/gnomo_de_oculos" target="_blank">
         <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-            target="_blank"></a>
-    <a href="mailto:<higormariano10@gmail.com>" alt="gmail" target="_blank">
-        <img
-            src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:higormariano10@gmail.com" /></a>
+            target="_blank"></a>    
 </h2>
 
 <a href="https://github.com/Higor-SM">
-    <img height="170em"
-        src="https://github-readme-stats.vercel.app/api?username=Higor-SM&rank_icon=github&count_private=true&hide_border=true&show_icons=true&title_color=fabc00&icon_color=b262fd&text_color=a599e9&theme=transparent" />
-    <img height="170em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&show_icons=true&title_color=fabc00&icon_color=b262fd&text_color=a599e9&theme=transparent" />
+<div align="center">
+    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&show_icons=true&title_color=fabc00&icon_color=b262fd&text_color=a599e9&theme=transparent" />
+</div>
     <div align="center" style="display: inline_block"><br>
         <img align="center" alt="HTML" height="40" width="50"
             src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
