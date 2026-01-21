@@ -23,36 +23,30 @@ class Hobbies extends Dev {
 }
 ```
 
-<h2 align="center">🌐 Connect with me
-    </br>
-    </br>
-    <a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-    <a href="https://steamcommunity.com/id/gnomo_de_oculos" target="_blank">
-        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-            target="_blank"></a>    
-</h2>
-
-<a href="https://github.com/Higor-SM">
-<div align="center">
-    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&show_icons=true&title_color=fabc00&icon_color=b262fd&text_color=a599e9&theme=transparent" />
-</div>
-    <div align="center" style="display: inline_block"><br>
-        <img align="center" alt="HTML" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-        <img align="center" alt="CSS" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Js" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-        <img align="center" alt="Ts" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-        <img align="center" alt="React" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-        <img align="center" alt="Git" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-        <img align="center" alt="Git" height="40" width="50"
-            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-        <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    </div>
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img height="300em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higor-SM&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&show_icons=true&title_color=fabc00&icon_color=b262fd&text_color=a599e9&theme=transparent" />
+    </td>
+    <td align="center" width="100%">
+      <h2>🌐 Connect with Me</h2>
+      <a href="https://www.linkedin.com/in/higor-mariano-5587b81b8/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="https://steamcommunity.com/id/gnomo_de_oculos" target="_blank">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+      </a>
+      <h2>💻 Technologies and Tools</h2>
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <br>
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    </td>
+  </tr>
+</table>
