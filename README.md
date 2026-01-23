@@ -42,11 +42,15 @@ class Hobbies extends Dev {
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-      <br>
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+      <br>
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">        
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">        
       <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+      <img height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">        
     </td>
   </tr>
 </table>
